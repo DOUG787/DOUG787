@@ -29,17 +29,17 @@
 
 ## 🔧 Estatísticas do GitHub
 
-![Douglas GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_rank=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+![Douglas GitHub Stats](https://github-readme-stats.vercel.app/api?username=DOUG787&show_icons=true&theme=tokyonight&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOUG787&layout=compact&theme=tokyonight)
 
 ## 🧩 Atividades Recentes
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=seu-usuario&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DOUG787&theme=tokyo-night)
 
 ## ✉️ Contato
 
-- 📫 Email: douglas@email.com *(exemplo)*
-- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
+- 📫 Email: douglashenrique66675@gmail.com / douglashenrique72739@gmail.com
+- 💼 [LinkedIn]((https://www.linkedin.com/in/douglas-henrique-filho-287a89214/))
 
 ---
 
