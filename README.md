@@ -6,9 +6,9 @@
 
 - 💼 Aprendiz de TI Governança na **Assa Abloy**
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 📚 Pós-graduando em **Segurança da Informação**
-- 🌍 Já trabalhei no **México**
-- ⚙️ Especialista em **hardware**, **redes** e **programação**
+- 📚 Cursando Pós-graduando em **Segurança da Informação**
+- 🌍 Tive a oportunidade de estudar e trabalhar no **México**
+- ⚙️ Especialista em **Desenvolvimento**, **Criação** e **programação** e **Gerenciamento de Dados**
 
 ## 🧠 Linguagens que domino
 
