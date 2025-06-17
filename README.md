@@ -1,8 +1,13 @@
 # 👋 Olá, eu sou o Doug !
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=30&fontColor=ffffff&animation=twinkling)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:002f5f&height=200&section=header&text=%20Bem-vindo%20ao%20meu%20GitHub!%20🚀&fontSize=35&fontColor=ffffff&animation=twinkling" />
+</p>
 
-## 🧑‍💻 Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Bem-vindo!;Bienvenido!;Welcome!" alt="Typing SVG" />
+</p>
+ 🧑‍💻 Sobre mim
 
 - 💼 Aprendiz de TI Governança na **Assa Abloy**
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
@@ -38,9 +43,6 @@
 ![Douglas GitHub Stats](https://github-readme-stats.vercel.app/api?username=DOUG787&show_icons=true&theme=tokyonight&hide_rank=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOUG787&layout=compact&theme=tokyonight)
 
-## 🧩 Atividades Recentes
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DOUG787&theme=tokyo-night)
 
 ## 📌 Projetos em destaque
 
