@@ -26,6 +26,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1IiB2aWV3Qm94PSIwIDAgMTcgMTUiIHdpZHRoPSIxNyIgZmlsbD0iI2ZmZiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMiAxNWg0LjY0Yy40OSAwIC45NC0uMTkuMTI2LS4xOS4yNyAwIC42Mi0uMTYuOTEtLjE2aC45OEM5LjA2IDExLjUyIDYuNzkgMTAuOTQgNS4zNCAxMGwtLjAxIDAuMDAyYzAuMTIuMjE3LjE4LjQ2Mi4xOC43IDAgLjc3OC0uNjQyIDEuNDE4LTEuNDI1IDEuNDE4LTMuNDcgMC02LjMtMi44Mi02LjMtNi4zIDAtMS4zLjQ2Ni0yLjU0IDEuMjQtMy41MTctLjI1Mi0uMDY3LS41MTMtLjExLTEuNzQ2LS4xMS0xLjUzNCAwLTIuNzY0IDEuMjM5LTIuNzY0IDIuNzY2IDAgMS4yMjcuODY4IDIuMjU3IDIuMDI4IDIuNjk3em0xLjA0OS00LjEyYzAgLjUxOS40Mi45NDcuOTQgLjk0Ny41MTggMCAuOTQ3LS40MjguOTQ3LS45NDcgMC0uNTItLjQyOC0uOTQ3LS45NDctLjk0Ny0uNTE5IDAtLjk0Ny40MjctLjk0Ny45NDd6Ii8+PC9zdmc+&logoColor=white)
+
 
 ## 🔧 Estatísticas do GitHub
 
@@ -35,6 +40,22 @@
 ## 🧩 Atividades Recentes
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DOUG787&theme=tokyo-night)
+
+## 📌 Projetos em destaque
+
+🔹 [IA Startup Analyzer](https://github.com/DOUG787/IA-Startup-Analyzer) — Um agente de IA que avalia startups com base em critérios de mercado, inovação e escalabilidade.
+
+🔹 [IA Competitor Spy](https://github.com/DOUG787/IA-Competitor-Spy) — Ferramenta de análise de concorrência com sugestões estratégicas geradas por IA.
+
+## 🌱 Em constante aprendizado
+
+- IA aplicada a negócios
+- Agentes autônomos com LangChain
+- Engenharia de prompts com OpenAI
+- Spring Boot para microsserviços Java
+- Segurança ofensiva e defensiva
+
+---
 
 ## ✉️ Contato
 
